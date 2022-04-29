@@ -38,6 +38,6 @@ public class Curso{
 		this.nome = nome;
 	}
 
-    public void setAno(Integer ano) {
+    public void setAno(Integer ano) { 
 		this.ano = ano;
 	}
